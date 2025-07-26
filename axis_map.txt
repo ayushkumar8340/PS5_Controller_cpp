@@ -1,0 +1,33 @@
+
+AXIS MAP (index) :
+
+0 --> left horizontal (right is positive)
+1 -->  left vertical (down is positive)
+
+2 --> left trigger (-1 to 1 unpressed to pressed)
+
+3 --> right horizontal (right is positive)
+4 --> right vertical (down is positive)
+
+5 --> right trigger (-1 to 1 unpressed to pressed)
+
+6 --> left right buttons D-PAD (-1 & 1 accordingly)
+7 --> up down buttons D-PAD (-1 & 1 accordingly)
+
+
+BUTTON MAP (index) :
+
+0 --> X
+1 --> O
+2 --> triangle
+3 --> square
+4 --> L1
+5 --> R1
+
+8 --> left mousepad side button
+9 --> right mousepad side button
+
+11 --> L3
+12 --> R3
+
+
